@@ -1,0 +1,4 @@
+[dependencies]
+canonical_gpkg = ""
+connectivity_dir = ""
+dhw_dir = ""
